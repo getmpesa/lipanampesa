@@ -1,5 +1,5 @@
 {
-  "name": "payvic-lipanampesa",
+  "name": "lipanampesa",
   "version": "1.0.0",
   "description": "lipa na mpesa node package",
   "main": "index.js",

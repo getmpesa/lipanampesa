@@ -2,7 +2,7 @@
 
 ```js
 const app = require("express")();
-const Mpesa = require("Mpesa");
+const Mpesa = require("lipanampesa");
 
 // create an instance
 // You can have multiple instances of this e.g for production and development
