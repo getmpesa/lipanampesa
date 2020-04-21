@@ -1,5 +1,5 @@
 {
-  "name": "lipanampesa",
+  "name": "@pesakite/lipanampesa",
   "version": "0.0.1",
   "description": "lipa na mpesa node package",
   "main": "index.js",
