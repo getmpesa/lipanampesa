@@ -1,6 +1,6 @@
 {
   "name": "lipanampesa",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "description": "lipa na mpesa node package",
   "main": "index.js",
   "scripts": {
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/payvic/payvic-lipanampesa.git"
+    "url": "git+https://github.com/pesakite/lipanampesa.git"
   },
   "keywords": [
     "mpesa",
@@ -18,9 +18,9 @@
   "author": "mwamodo",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/payvic/payvic-lipanampesa/issues"
+    "url": "https://github.com/pesakite/lipanampesa/issues"
   },
-  "homepage": "https://github.com/payvic/payvic-lipanampesa#readme",
+  "homepage": "https://github.com/pesakite/lipanampesa#readme",
   "dependencies": {
     "axios": "^0.19.0"
   }
